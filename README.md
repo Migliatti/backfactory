@@ -65,8 +65,8 @@ Both are written for humans, cite their sources, and are meant to be argued with
 
 - **Watch the [map](https://github.com/Migliatti/backfactory/issues/1)** to see decisions land as they're made.
 - **Open an issue** to disagree with one. The research documents are explicitly meant to be challenged — if a source was misread or a better one exists, that is a valuable contribution.
-- Contribution guidelines and a license will land alongside the first playable slice.
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** covers what actually helps at this stage, which is not the usual list.
 
 ## License
 
-To be decided before the first release.
+[MIT](LICENSE). Fork it, teach with it, build on it, sell it — just keep the copyright notice.
