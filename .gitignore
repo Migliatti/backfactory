@@ -1,0 +1,12 @@
+# Generated symlink farm pointing at absolute paths — regenerate from
+# skills-lock.json + .agents/skills/ instead of committing it.
+.claude/
+
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
